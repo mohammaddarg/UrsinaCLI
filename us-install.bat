@@ -1,0 +1,1 @@
+doskey "./us.bat"
