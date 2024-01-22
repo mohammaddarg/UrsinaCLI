@@ -1,3 +1,3 @@
 @echo off
 
-python manager.py %1 %2
+python ./manager.py %1 %2

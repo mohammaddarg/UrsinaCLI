@@ -1,1 +1,3 @@
-doskey "./us.bat"
+@echo off
+
+doskey us="./us.bat"
